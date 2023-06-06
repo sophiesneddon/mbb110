@@ -1,6 +1,5 @@
 This
-is
-a
+is a
 file
 that
 I
